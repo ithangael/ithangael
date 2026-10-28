@@ -4,7 +4,7 @@
 <br>*Jr. Full Stack Developer · backend, web security & computer vision*
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-ithangael.github.io-ff5a1f?style=flat-square)](https://ithangael.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ithan_Gael_Hurtado-0a66c2?style=flat-square)](https://www.linkedin.com/in/ithan-gael-hurtado-salazar-82b6643b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fithangael-0a66c2?style=flat-square)](https://www.linkedin.com/in/ithangael)
 [![Email](https://img.shields.io/badge/ithangael@gmail.com-1a1814?style=flat-square)](mailto:ithangael@gmail.com)
 
 ---
